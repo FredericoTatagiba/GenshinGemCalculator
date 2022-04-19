@@ -1,0 +1,5 @@
+D:\Program Files\Genshin Wish Calculator\Genshin Wish Calculator.exe
+D:\Program Files\Genshin Wish Calculator\Genshin Wish Calculator.dll
+D:\Program Files\Genshin Wish Calculator\Genshin Wish Calculator.deps.json
+D:\Program Files\Genshin Wish Calculator\Genshin Wish Calculator.runtimeconfig.json
+D:\Program Files\Genshin Wish Calculator\Genshin Wish Calculator.pdb

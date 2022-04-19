@@ -1,0 +1,40 @@
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.exe
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.deps.json
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.runtimeconfig.json
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.runtimeconfig.dev.json
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.dll
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.pdb
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.csproj.AssemblyReference.cache
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator_MarkupCompile.cache
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator_MarkupCompile.lref
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.g.resources
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.AssemblyInfoInputs.cache
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.AssemblyInfo.cs
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.dll
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.pdb
+C:\Users\Frederico\source\repos\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.genruntimeconfig.cache
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.exe
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.deps.json
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.runtimeconfig.json
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.runtimeconfig.dev.json
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.dll
+D:\Program Files\Genshin Wish Calculator\bin\Release\netcoreapp3.1\Genshin Wish Calculator.pdb
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.csproj.AssemblyReference.cache
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\App.g.cs
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator_MarkupCompile.cache
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator_MarkupCompile.lref
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.g.resources
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.AssemblyInfoInputs.cache
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.AssemblyInfo.cs
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.csproj.CoreCompileInputs.cache
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.dll
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.pdb
+D:\Program Files\Genshin Wish Calculator\obj\Release\netcoreapp3.1\Genshin Wish Calculator.genruntimeconfig.cache
